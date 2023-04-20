@@ -1,0 +1,21 @@
+{
+  "name": "projeto01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "cli": "node cli.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lucas Monari - 30146470",
+  "license": "ISC",
+  "description": "Projeto 01 NodeJS",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "fs": "^0.0.1-security",
+    "jest": "^29.5.0",
+    "node-fetch": "^3.3.1",
+    "require": "^2.4.20"
+  }
+}
